@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "Ubuntu";
+	src: url("../fonts/Ubuntu/Ubuntu.eot");
+	src: url("../fonts/Ubuntu/Ubuntu.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Ubuntu/Ubuntu.woff") format("woff"),
+			 url("../fonts/Ubuntu/Ubuntu.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSans";
+	src: url("../fonts/OpenSans/OpenSans.woff2");
+	src: url("../fonts/OpenSans/OpenSans.woff2?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans/OpenSans.woff") format("woff"),
+			 url("../fonts/OpenSans/OpenSans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
